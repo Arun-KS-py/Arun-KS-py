@@ -18,6 +18,9 @@
 - [Gas Detecting Robot using Arduino](https://github.com/Arun-KS-py?tab=projects) - Robotics.
 - [Website](https://github.com/your-username/another-project) - Just tried to make a website.
 
+## Certificates
+
+- [Hackerrank](https://www.hackerrank.com/certificates/2fbddf290e8c) - Python Basics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
