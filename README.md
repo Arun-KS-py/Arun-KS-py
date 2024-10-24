@@ -11,8 +11,7 @@
 
 - 🔭 I’m currently working on **IoT projects**.
 - 🌱 I’m currently learning **Python**.
-- 👯 I’m looking to collaborate on **Python-based open-source projects**.
-- ⚡ Fun fact: **The World Wide Web is faster to say than WWW 😉**.
+- 👯 I’m looking to collaborate on **Software Development based projects**.
 
 ## 🚀 Projects
 
