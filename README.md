@@ -15,7 +15,7 @@
 
 ## 🚀 Projects
 
-- [Gas Detecting Robot using Arduino](https://github.com/your-username/awesome-project) - Robotics.
+- [Gas Detecting Robot using Arduino](https://github.com/Arun-KS-py?tab=projects) - Robotics.
 - [Website](https://github.com/your-username/another-project) - Just tried to make a website.
 
 
