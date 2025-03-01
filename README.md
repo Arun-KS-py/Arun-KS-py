@@ -12,8 +12,6 @@
 Student @ Sri Sairam Institute of Technology<br/>
 - 🔭 Here's my [portfolio](https://arun-ks-py.github.io/portfolio/)<br/>                                                 
 - 🌱 I’m currently learning AI and Integrating AI to my projects<br/>
-- ⚡ Fun fact: I know Origami.<br/>
-- Social Presence<br/>
 <br /> 
 
 ### I code in
