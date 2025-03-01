@@ -9,7 +9,6 @@
     <img alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
 </div>
 Student @ Sri Sairam Institute of Technology
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://arun-ks-py.github.io/portfolio/)                                                 
 - 🌱 I’m currently learning AI and Integrating AI to my projects
 - ⚡ Fun fact: I know Origami.
