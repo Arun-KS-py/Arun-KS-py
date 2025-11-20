@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Arun! </h1>
 
-<h2 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 36px;">A passionate Python developer and tech enthusiast.</h2>
+<h2 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 36px;">A passionate Java developer and tech enthusiast.</h2>
 
 <div align="center">
     <img alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="350"/>
